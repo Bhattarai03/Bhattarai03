@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Raman Raj Bhattarai, and I am a first-semester student pursuing a Bachelor in Computer Application (BCA) at Itahari Namuna College, affiliated with Tribhuvan University. I am enthusiastic about learning computer applications and gaining technical knowledge to build a strong foundation in the field of information technology. Through my academic journey, I aim to develop my skills in programming, logical thinking, and problem-solving to support my future academic and professional growth.
+My name is Raman Raj Bhattarai, and I am a first-semester student pursuing a Bachelor in Computer Application (BCA) at Itahari Namuna College, affiliated with Tribhuvan University. I am enthusiastic about learning computer applications and gaining technical knowledge to build a strong foundation in the field of information technology. Through my academic journey, I aim to develop my skills in programming, logical thinking, and problem-solving to support my future academic and professional growth.<br>
 [Connect with me on LinkedIn](https://www.linkedin.com/in/raman-raj-bhattarai-9b5b42366) <br>[Read my Hashnode Docs](https://hashnode.com/@bhattarai03)<br>
 
 
